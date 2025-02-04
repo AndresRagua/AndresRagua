@@ -10,21 +10,6 @@
 
 ---
 
-## 🚀 Sobre mí  
-💻 **Áreas de interés:**  
-- Backend y microservicios con **Node.js, NestJS, .NET, FastAPI y Flask**  
-- Desarrollo Frontend con **React, Next.js y Angular**  
-- Bases de datos relacionales y NoSQL (**PostgreSQL, MySQL, MongoDB, SQL Server**)  
-- Arquitectura de software.
-
-🚀 **Proyectos:**  
-Actualmente, trabajo en proyectos que integran tecnologías modernas para resolver problemas de manera eficiente y escalable.  
-
-🌱 **En constante aprendizaje:**  
-Siempre busco mejorar mis habilidades y mantenerme actualizado con nuevas tecnologías.  
-
----
-
 ## 🛠️ Tecnologías y Herramientas  
 
 ### 🔹 Lenguajes de Programación  
