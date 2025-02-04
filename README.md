@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Andres Ragua**  
 
-🎓 **Ingeniero Informático** de la **UCAB**, apasionado en el desarrollo con tecnologias de Python y JavaScript.
+🎓 Estudiante de **Ingenieria Informática** de la **UCAB**, apasionado en el desarrollo con tecnologias de Python y JavaScript.
 
 ---
 
